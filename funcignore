@@ -1,0 +1,16 @@
+.git*
+.vscode
+__azurite_db*__.json
+.python_packages
+local.settings.json
+test
+.env
+venv
+.venv
+te-test.py
+te-testing.py
+get_drives.py
+getsharepoint_ids.py
+*.pyc
+__pycache__
+node_modules

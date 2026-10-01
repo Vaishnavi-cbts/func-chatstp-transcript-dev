@@ -1,0 +1,13 @@
+azure-functions>=1.18.0
+tzdata
+azure-data-tables>=12.4.0
+azure-identity>=1.14.0
+msgraph-sdk>=1.0.0
+httpx>=0.24.0
+python-dotenv
+#python-docx==0.8.11
+openai>=1.0
+python-docx>=1.1.0
+python-dateutil
+requests
+msal
